@@ -5,10 +5,10 @@ My conclusions gotten from the dataset, can be found in the jupyter file attache
 
 # Here are some conclusions:
 
-55% of passengers that ebarked from S(Southampton) survived
-38% of passengers that embarked from C(Cherbourg) survived
-33% of passengers that embarked from Q(Queenstown) survived
+- 55% of passengers that ebarked from S(Southampton) survived
+- 38% of passengers that embarked from C(Cherbourg) survived
+- 33% of passengers that embarked from Q(Queenstown) survived
 
-1st class ticket passengers had higher survival rate
-Female passengers had a higher survival rate than male passengers
-Passengers that embarked their journey from Cherbourg survived the crisis
+- 1st class ticket passengers had higher survival rate
+- Female passengers had a higher survival rate than male passengers
+- Passengers that embarked their journey from Cherbourg survived the crisis
